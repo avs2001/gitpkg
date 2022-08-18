@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/avs2001/gitpkg/issues"
   },
-  "homepage": "https://github.com/avs2001/gitpkg#readme"
+  "homepage": "https://github.com/avs2001/gitpkg#readme",
+  "publishConfig": {
+   "@avs2001:registry": "https://npm.pkg.github.com"
+ }
 }
